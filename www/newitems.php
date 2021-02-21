@@ -353,7 +353,7 @@ function showNewItemList($db, $items, $first, $last)
             }
     
             $stars = showStars($r['rating']);
-            list($summary, $len, $trunc) = summarizeHtml($r['review'], 140);
+            list($summary, $len, $trunc) = summarizeHtml($r['review'], 1000);
             $summary = fixDesc($summary);
             if ($len != 0 || $stars != "")
             {
