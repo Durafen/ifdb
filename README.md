@@ -1,7 +1,7 @@
   # IFDB
 
  This is the source code for [IFDB](https://ifdb.org), the Interactive Fiction Database.
-
+ 
  # Preparing Your Own Development Environment
  
 The IFDB web app is a LAMP app (Linux, Apache, MySQL, PHP). The development environment runs on Docker.
