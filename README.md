@@ -1,7 +1,6 @@
 # IFDB
 
-
- This is the source code for [IFDB](https://ifdb.org), the Interactive Fiction Database.
+This is the source code for [IFDB](https://ifdb.org), the Interactive Fiction Database.
 
 # Preparing Your Own Development Environment
 
